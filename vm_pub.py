@@ -1,3 +1,9 @@
+""" 
+Victoria Lawton
+Sriya Kuruppath
+https://github.com/victorialawton/ee250lab4.git
+"""
+
 """EE 250L Lab 04 Starter Code
 Run vm_sub.py in a separate terminal on your VM."""
 
