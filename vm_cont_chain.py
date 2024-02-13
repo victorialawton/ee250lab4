@@ -3,7 +3,7 @@ import time
 
 # Replace these with your actual username and broker address
 YOUR_USERNAME = "VLAWTON"
-BROKER_ADDRESS = "rpi"
+BROKER_ADDRESS = "172.20.10.4"
 
 # Callback when the client receives a CONNACK response from the server.
 def on_connect(client, userdata, flags, rc):
