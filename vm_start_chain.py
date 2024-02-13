@@ -31,8 +31,8 @@ client.loop_start()
 while True:
     time.sleep(1)
     print(f"Sending ping: {number}")
-    client.publish(f"{YOUR_USERNAME}/ping", str(number))
     number += 1
+    client.publish(f"{YOUR_USERNAME}/ping", str(number))
 
 
 
