@@ -3,7 +3,7 @@ import time
 
 # Replace these with your actual username and broker address
 YOUR_USERNAME = "VLAWTON"
-BROKER_ADDRESS = "rpi"
+BROKER_ADDRESS = "172.20.10.4"
 
 # Initial number to start the ping-pong chain
 number = 0
